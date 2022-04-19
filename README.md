@@ -1,6 +1,6 @@
 # Ice-Panick
-<b>Description</b> : Jeux sur navigateur
-<b>Dernière version</b> : 31/03/2022
+<b>Description</b> : Jeux sur navigateur<br>
+<b>Dernière version</b> : 31/03/2022<br>
 <b>Personnes impliquées</b> : 
   - Florian Montastier
   - Moi
